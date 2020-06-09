@@ -15,7 +15,7 @@ Mobile CHECK UPGRADE custom protocol.
        ```json
        {
          "apkUrl": "https://github.com/sybilo/upgrade/${apk-url}.apk",
-         "version": "${versionCode}",
+         "version": 11010100,
          "gatedLaunch": 0.1,
          "notes": "${markdown}",
          "sha-1": "${hash by sha-1}",
