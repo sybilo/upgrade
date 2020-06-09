@@ -10,6 +10,7 @@ Mobile CHECK UPGRADE custom protocol.
     >* 灰度发布比例；
     >* 更新日志；
     >* 文件的 hash；
+    >* 是否强制更新。
     >* 格式：
        ```json
        {
@@ -17,7 +18,8 @@ Mobile CHECK UPGRADE custom protocol.
          "version": "${versionCode}",
          "gatedLaunch": 0.1,
          "notes": "${markdown}",
-         "sha-1": "${hash by sha-1}"
+         "sha-1": "${hash by sha-1}",
+         "force": true
        }
        ```
 
