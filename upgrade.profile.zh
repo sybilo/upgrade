@@ -1,9 +1,9 @@
 {
-  "apkUrl": "https://nmobile.nkn.org/downloads/nMobile-v1.0.0.2153-arm64-v8a-release-ibo-auto.apk",
-  "version": "1.0.1-pro + (Build 102)",
+  "apkUrl": "https://nmobile.nkn.org/downloads/nmobile-pro_v1.0.2_103.apk",
+  "version": "1.0.2-pro + (Build 103)",
   "gatedLaunch": 0.8,
   "title": "您有新版本可更新：",
-  "notes": "* 1.0.1-pro + (Build 102)\n* ### 警告：该版本将删除消息数据库！\n  * 主要功能是测试收不到消息的问题：在 go-sdk 中加入日志输出，并增加循环自动发消息的功能。\n1. 中文；\n2. 中文；\n3. 中文。",
-  "sha-1": "40a6f47010f0120274cf951b05806e12aee8dab2",
+  "notes": "* #### 1.0.2-pro + (Build 103)\n1. 支持矿工手动添加设备；\n2. 增加设备详情；\n3. 统计设备状态分类；\n4. 增加自动更新。",
+  "sha-1": "9bf6574bd35400e5fca68cf6bc84e8e9e1beabc6",
   "force": true
 }
